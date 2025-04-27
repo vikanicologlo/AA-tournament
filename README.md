@@ -8,7 +8,7 @@ Purpose: Establish baseline behavior patterns while testing opponent's:
 
 - Responsiveness to cooperation
 
- -Retaliation tendencies
+- Retaliation tendencies
 
 - Forgiveness capacity
 
